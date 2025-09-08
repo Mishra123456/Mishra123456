@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Mukul Mishra
 ### Data Science & AI Enthusiast | Machine Learning Developer
 
@@ -8,7 +7,7 @@
 
 ## 🚀 About Me
 
-[cite_start]I'm a B.Tech graduate in AI/ML with a 9.42 CGPA, driven by a passion for building effective AI solutions[cite: 4, 25]. [cite_start]I'm skilled in Python, Java, Scikit-learn, NumPy, and Pandas, and apply these skills to create impactful projects[cite: 5, 10]. [cite_start]My problem-solving ability is reflected in a top 16% rank in a competitive hackathon and completing over 220 LeetCode problems[cite: 6, 41, 42]. [cite_start]Off the keyboard, performing music and poetry keeps my creativity and discipline sharp[cite: 7, 43].
+I'm a B.Tech graduate in AI/ML with a 9.42 CGPA, driven by a passion for building effective AI solutions. I'm skilled in Python, Java, Scikit-learn, NumPy, and Pandas, and apply these skills to create impactful projects. My problem-solving ability is reflected in a top 16% rank in a competitive hackathon and completing over 220 LeetCode problems. Off the keyboard, performing music and poetry keeps my creativity and discipline sharp.
 
 - 🔭 **Currently working on:** Voice-based Assistant with Face Authentication
 - 🌱 **Learning:** (Please provide what you are learning)
@@ -42,19 +41,19 @@
 ## 🔥 Featured Projects
 
 ### [Voice-based Assistant with Face Authentication](https://github.com/Mishra123456/JARVIS-main)
-> [cite_start]Architected and built a secure voice assistant with integrated facial authentication for user verification[cite: 19].
-- [cite_start]Integrated Google Gemini API for advanced conversational AI and Porcupine wake word detection for hands-free interaction[cite: 21].
-- [cite_start]Leveraged SpeechRecognition for speech-to-text, automating tasks such as searches, reminders, and system commands[cite: 22].
-- [cite_start]Technologies: Python, Google Gemini API, Porcupine, Haar Cascade[cite: 18].
+> Architected and built a secure voice assistant with integrated facial authentication for user verification.
+- Integrated Google Gemini API for advanced conversational AI and Porcupine wake word detection for hands-free interaction.
+- Leveraged SpeechRecognition for speech-to-text, automating tasks such as searches, reminders, and system commands.
+- Technologies: Python, Google Gemini API, Porcupine, Haar Cascade.
 
 ## 📚 Education
 
 **VIT Bhopal University, Bhopal**
-[cite_start]🎓 B.Tech in Computer Science (AI & ML) - CGPA: 9.42 [cite: 24, 25]
+🎓 B.Tech. in Computer Science (Artificial Intelligence & Machine Learning) - CGPA: 9.42
 📅 Expected 2027
 
 **The Pillars, Gorakhpur**
-🏆 12th Grade: 94.4% | [cite_start]10th Grade: 93% [cite: 26, 28]
+🏆 12th Grade: 94.4% | 10th Grade: 93%
 
 ## 📊 GitHub Stats
 
@@ -67,19 +66,3 @@ I'm always open to discussing AI, data science, or potential collaborations. Fee
 
 [![Email](https://img.shields.io/badge/Email-mishra123best@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishra123best@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mukul_Mishra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukulmishracs/)
-```## Hi there 👋
-
-<!--
-**Mishra123456/Mishra123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
