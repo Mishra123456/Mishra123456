@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f5ff&height=300&section=header&text=Mukul%20Mishra&fontSize=70&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=Machine%20Learning%20Engineer%20•%20AI%20Systems%20•%20Trust%20Focused&descAlignY=60&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+reliable+AI+systems;ML+%2B+APIs+%2B+real+world+deployment;Focused+on+human-AI+trust"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+reliable+AI+systems;ML+%2B+APIs+%2B+real+world+deployment;Focused+on+human-AI+trust"/>
 
 <br/>
 
@@ -22,15 +22,8 @@
 
 ```python
 class Mukul:
-    name = "Mukul Mishra"
     role = "Machine Learning Engineer"
     focus = "Real-world AI systems and trust"
-
-    building = [
-        "Trust Modeling Systems",
-        "Predictive ML Pipelines",
-        "Emotion-aware Interfaces"
-    ]
 
     approach = "Build → Evaluate → Deploy → Iterate"
 ```
@@ -43,56 +36,56 @@ class Mukul:
 
 ---
 
-I build **machine learning systems** that go beyond experimentation and actually work in **real-world environments**.
+I build **machine learning systems** that go beyond experimentation and work in **real-world environments**.
 
-My focus is not just **accuracy**, but how systems behave when **people interact with them** — especially when **trust starts to break**.
+My focus is not just **model accuracy**, but how systems behave when **people interact with them**, especially when **trust starts to break**.
 
 ---
 
-### <span style="color:#00f5ff"><b>TrustScope</b></span>
+### TrustScope
 
 ```bash
 input  → user feedback + interaction behavior  
 output → trust score + behavioral trends
 ```
 
-A system focused on **understanding trust in AI systems**.
+A system focused on understanding how users **gain or lose trust** in AI predictions.
 
-- Detects **sentiment + skepticism signals** using NLP  
+- Extracts **sentiment and skepticism signals**  
 - Models **trust decay over time**  
 - Generates **interpretable trust scores**  
-- Identifies **failure points in deployed systems**  
+- Helps identify **failure points in deployed systems**  
 
 ---
 
-### <span style="color:#ff00ff"><b>DegradX</b></span>
+### DegradX
 
 ```bash
 input  → time-series sensor data  
 output → degradation trend + failure probability
 ```
 
-A **predictive maintenance system** designed for real-world deployment.
+A predictive maintenance system designed for **real-world monitoring**.
 
-- **Random Forest** → current state estimation  
-- **LSTM** → temporal degradation patterns  
-- Combines **short-term + long-term signals**  
-- Deployed using **FastAPI APIs**  
+- **Random Forest** for current state estimation  
+- **LSTM** for temporal degradation patterns  
+- Combines **short-term and long-term signals**  
+- Deployed using **FastAPI for real-time inference**  
 
 ---
 
-### <span style="color:#00ff9f"><b>Emotion AI</b></span>
+### Emotion AI
 
 ```bash
 input  → facial expression  
 output → adaptive visual response
 ```
 
-Exploring **emotion-aware intelligent interfaces**.
+An exploration of **emotion-aware interfaces**.
 
 - **Vision Transformer** for emotion classification  
-- Maps emotion → **dynamic visual output**  
-- Bridges **computer vision + user experience**  
+- Maps emotion to **dynamic visual outputs**  
+- Connects **computer vision with user experience**  
 
 ---
 
@@ -135,7 +128,7 @@ CGPA                    → 9.42
 
 ---
 
-Outside of technical work, I spend time on **creative expression and performance**.
+Outside of technical work, I spend time on **creative expression**:
 
 - Poetry  
 - Singing  
