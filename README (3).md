@@ -210,4 +210,4 @@ competitive:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:0f2027&height=140&section=footer"/>
 
-</div>
+</div>  bro remove heading which makes it look like ai generated and add some memes and graphics
