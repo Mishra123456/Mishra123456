@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f5ff&height=300&section=header&text=Mukul%20Mishra&fontSize=70&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=Machine%20Learning%20Engineer%20•%20AI%20Systems%20•%20Trust%20Focused&descAlignY=60&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+reliable+AI+systems;ML+%2B+APIs+%2B+real+world+deployment;Focused+on+human-AI+trust"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+reliable+AI+systems;ML+%2B+APIs+%2B+real+world+deployment;Focused+on+human-AI+trust"/>
 
 <br/>
 
@@ -36,45 +36,47 @@ class Mukul:
 
 ---
 
-I build **machine learning systems** that go beyond experimentation and work in **real-world environments**.
+I build **machine learning systems** that work in **real-world environments**, not just notebooks.
 
-My focus is not just **model accuracy**, but how systems behave when **people interact with them**, especially when **trust starts to break**.
+My focus is on **reliability, behavior, and trust** — especially how systems respond when users begin to question them.
 
 ---
 
-### TrustScope
+## ⚡ Projects
+
+### 🧠 TrustScope
 
 ```bash
 input  → user feedback + interaction behavior  
 output → trust score + behavioral trends
 ```
 
-A system focused on understanding how users **gain or lose trust** in AI predictions.
+A system designed to analyze how users **gain or lose confidence** in AI predictions.
 
-- Extracts **sentiment and skepticism signals**  
+- Detects **sentiment and skepticism signals**  
 - Models **trust decay over time**  
-- Generates **interpretable trust scores**  
-- Helps identify **failure points in deployed systems**  
+- Produces **interpretable trust scores**  
+- Identifies **failure points in deployed systems**  
 
 ---
 
-### DegradX
+### 🔩 DegradX
 
 ```bash
 input  → time-series sensor data  
 output → degradation trend + failure probability
 ```
 
-A predictive maintenance system designed for **real-world monitoring**.
+A predictive maintenance system built for **continuous monitoring**.
 
-- **Random Forest** for current state estimation  
-- **LSTM** for temporal degradation patterns  
-- Combines **short-term and long-term signals**  
-- Deployed using **FastAPI for real-time inference**  
+- **Random Forest** → current system state  
+- **LSTM** → temporal degradation patterns  
+- Combines **short-term + long-term insights**  
+- Deployed via **FastAPI for real-time predictions**  
 
 ---
 
-### Emotion AI
+### 🎭 Emotion AI
 
 ```bash
 input  → facial expression  
@@ -83,9 +85,9 @@ output → adaptive visual response
 
 An exploration of **emotion-aware interfaces**.
 
-- **Vision Transformer** for emotion classification  
-- Maps emotion to **dynamic visual outputs**  
-- Connects **computer vision with user experience**  
+- **Vision Transformer** for emotion detection  
+- Maps emotion → **dynamic UI behavior**  
+- Bridges **computer vision with UX systems**  
 
 ---
 
@@ -96,6 +98,8 @@ An exploration of **emotion-aware interfaces**.
 </div>
 
 ---
+
+## 📊 Activity
 
 <div align="center">
 
@@ -118,6 +122,8 @@ An exploration of **emotion-aware interfaces**.
 
 ---
 
+## 🏆 Achievements
+
 ```text
 Shell AI Hackathon      → Top 16%  
 Zelestra Hackathon      → Top 18%  
@@ -128,13 +134,15 @@ CGPA                    → 9.42
 
 ---
 
-Outside of technical work, I spend time on **creative expression**:
+## 🎯 Beyond Code
+
+Outside of technical work, I spend time on:
 
 - Poetry  
 - Singing  
 - Stage performances  
 
-These experiences shape how I think about **clarity, communication, and human interaction**.
+These experiences influence how I think about **communication, clarity, and human interaction**.
 
 ---
 
@@ -144,6 +152,8 @@ These experiences shape how I think about **clarity, communication, and human in
 
 ---
 
+## 🎓 Education
+
 | | |
 |---|---|
 | **Degree** | B.Tech CSE (AIML) |
@@ -151,6 +161,8 @@ These experiences shape how I think about **clarity, communication, and human in
 | **CGPA** | **9.42** |
 
 ---
+
+## 🔗 Connect
 
 <div align="center">
 
