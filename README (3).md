@@ -31,7 +31,7 @@ class Mukul:
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="650"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650"/>
 </div>
 
 ---
@@ -92,6 +92,12 @@ An exploration of **emotion-aware interfaces**.
 ---
 
 <div align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,sql,sklearn,tensorflow,fastapi,aws,mysql,git,vercel&theme=dark"/>
 
@@ -136,18 +142,18 @@ CGPA                    → 9.42
 
 ## 🎯 Beyond Code
 
-Outside of technical work, I spend time on:
+Outside of technical work:
 
 - Poetry  
 - Singing  
 - Stage performances  
 
-These experiences influence how I think about **communication, clarity, and human interaction**.
+These experiences influence how I think about **communication and human interaction**.
 
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
 </div>
 
 ---
