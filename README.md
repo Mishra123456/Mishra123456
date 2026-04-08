@@ -1,93 +1,212 @@
-# 🧠 TrustScope – Human–AI Trust Analysis System
+<div align="center">
 
-![FrontUI1](public/ts1.png)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f5ff&height=300&section=header&text=Mukul%20Mishra&fontSize=70&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=Machine%20Learning%20Engineer%20•%20AI%20Systems%20•%20Trust%20Focused&descAlignY=60&descSize=20"/>
 
-> TrustScope is an end-to-end **human–AI trust analysis and monitoring system**
-> built using **FastAPI**, **NLP**, and **Machine Learning**.
-> 
->![FrontUI2](public/ts2.png)
->![FrontUI3](public/ts3.png)
->![FrontUI4](public/ts4.png)
-> It analyzes **human overrides and feedback** to quantify trust,
-> monitor trust decay, and explain *why humans stop relying on AI systems*.
->
-> Designed for **human-in-the-loop AI**, **AI governance**, and
-> **responsible AI deployments**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+reliable+AI+systems;ML+%2B+APIs+%2B+real+world+deployment;Focused+on+human-AI+trust"/>
 
-## 🔍 Key Features
+<br/>
 
-- 📤 CSV-based human–AI interaction data upload
-- 🧠 NLP-driven sentiment analysis (VADER)
-- 🧩 Skepticism detection from confidence notes
-- 🤖 Machine learning–based override risk prediction
-- 📉 Trust score estimation (0–1)
-- 📊 Weekly trust analytics
-- 🧩 RAG-style clustering of human feedback
-- 🧑‍💼 Executive-level trust summary
-- ⚠️ System health classification
+<a href="https://mukul-s-ai-canvas-346a2182.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀%20View%20Portfolio-Live-00f5ff?style=for-the-badge"/>
+</a>
 
-![Upload](public/ts5.png)
-## 🧠 Trust Analysis Architecture
-Human–AI Interaction Logs
-↓
-Sentiment & Skepticism Extraction
-↓
-Override Detection
-↓
-Trust Risk Model
-↓
-Temporal Trust Metrics
-↓
-Theme Analysis
-↓
-Executive Trust Insights
+<br/><br/>
 
-## 🤖 Machine Learning Architecture
+<img src="https://img.shields.io/badge/Status-Building-00f5ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-ML%20Systems-ff00ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Interest-Human%20AI%20Trust-00ff9f?style=for-the-badge"/>
 
-### Trust Prediction Model
-![Output1](public/ts6.png)
-![Output2](public/ts7.png)
-![Output3](public/ts8.png)
-![Output4](public/ts9.png)
-| Component | Purpose |
-|---------|--------|
-| Sentiment Score | Captures confidence in AI decisions |
-| Skepticism Flag | Detects linguistic mistrust signals |
-| Logistic Regression | Predicts probability of human override |
-| Feature Weights | Interpretable trust attribution |
+</div>
 
-## 📁 Input Data Format
+---
 
-| Column Name | Description |
-|------------|-------------|
-| date | Date of interaction |
-| model_decision | AI system output |
-| human_decision | Final human decision |
-| confidence_note | Human feedback |
+```bash
+> initializing identity...
+> loading modules: ML | NLP | CV | Systems
+> ready
+```
 
-Override is inferred when:
+```python
+class Mukul:
+    role = "Machine Learning Engineer"
+    focus = "Real-world AI systems and trust"
 
-`model_decision != human_decision`
+    approach = "Build → Evaluate → Deploy → Iterate"
+```
 
-## 🚀 API Overview
+---
 
-**POST /analyze**
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650"/>
+</div>
 
-Input  
-- CSV file
+---
 
-Output  
-- Trust metrics  
-- Override risk predictions  
-- Feedback themes  
-- Executive summary  
+I build **machine learning systems** that work in **real-world environments**, not just notebooks.
 
-## 🧰 Tech Stack
+My focus is on **reliability, behavior, and trust** — especially how systems respond when users begin to question them.
 
-| Layer | Technology |
-|-----|------------|
-| Backend | FastAPI |
-| ML | scikit-learn |
-| NLP | NLTK (VADER) |
-| Data | Pandas, NumPy |
-| Serving | Uvicorn |
+---
+
+## ⚡ Projects
+
+### 🧠 TrustScope
+
+```bash
+input  → user feedback + interaction behavior  
+output → trust score + behavioral trends
+```
+
+A system designed to analyze how users **gain or lose confidence** in AI predictions.
+
+- Detects **sentiment and skepticism signals**  
+- Models **trust decay over time**  
+- Produces **interpretable trust scores**  
+- Identifies **failure points in deployed systems**  
+
+---
+
+### 🔩 DegradX
+
+```bash
+input  → time-series sensor data  
+output → degradation trend + failure probability
+```
+
+A predictive maintenance system built for **continuous monitoring**.
+
+- **Random Forest** → current system state  
+- **LSTM** → temporal degradation patterns  
+- Combines **short-term + long-term insights**  
+- Deployed via **FastAPI for real-time predictions**  
+
+---
+
+### 🎭 Emotion AI
+
+```bash
+input  → facial expression  
+output → adaptive visual response
+```
+
+An exploration of **emotion-aware interfaces**.
+
+- **Vision Transformer** for emotion detection  
+- Maps emotion → **dynamic UI behavior**  
+- Bridges **computer vision with UX systems**  
+
+---
+
+<div align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,sql,sklearn,tensorflow,fastapi,aws,mysql,git,vercel&theme=dark"/>
+
+</div>
+
+---
+
+## 📊 Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mishra123456&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishra123456&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mishra123456&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="650"/>
+</div>
+
+---
+
+## 🏆 Achievements
+
+```text
+Shell AI Hackathon      → Top 16%  
+Zelestra Hackathon      → Top 18%  
+Microsoft DP-900        → 970 / 1000  
+LeetCode                → 250+ Problems Solved  
+CGPA                    → 9.42  
+```
+
+---
+
+## 🎯 Beyond Code
+
+Outside of technical work:
+
+- Poetry  
+- Singing  
+- Stage performances  
+
+These experiences influence how I think about **communication and human interaction**.
+
+---
+
+<div align="center">
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
+</div>
+
+---
+
+## 🎓 Education
+
+| | |
+|---|---|
+| **Degree** | B.Tech CSE (AIML) |
+| **Institution** | VIT Bhopal |
+| **CGPA** | **9.42** |
+
+---
+
+## 🔗 Connect
+
+<div align="center">
+
+<a href="https://mukul-s-ai-canvas-346a2182.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-View%20Work-00f5ff?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mukulmishracs/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Mukul%20Mishra-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mishra123best@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hi-ff00ff?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Mishra123456" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="300"/>
+
+```diff
+- AI is not the future.
++ Systems people trust are.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:0f2027&height=140&section=footer"/>
+
+</div>
