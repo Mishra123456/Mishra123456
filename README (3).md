@@ -1,109 +1,100 @@
 <div align="center">
 
-<!-- 🌌 CYBERPUNK HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f5ff&height=300&section=header&text=Mukul%20Mishra&fontSize=70&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=Machine%20Learning%20Engineer%20•%20AI%20Systems%20•%20Trust%20Focused&descAlignY=60&descSize=20"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f5ff&height=300&section=header&text=Mukul%20Mishra&fontSize=70&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=Neural%20Systems%20•%20AI%20Engineer%20•%20Trust%20Layer&descAlignY=60&descSize=20"/>
-
-<!-- ⚡ NEON TYPING -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+Booting+Mukul_AI_System...;%3E+Loading+Neural+Modules...;%3E+Injecting+Trust+into+AI...;%3E+System+Status%3A+ONLINE+%E2%9C%85"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+reliable+AI+systems;ML+%2B+APIs+%2B+real+world+deployment;Focused+on+human-AI+trust"/>
 
 <br/>
 
-<!-- 🔥 GLOW BADGES -->
-
-<img src="https://img.shields.io/badge/Status-ONLINE-00f5ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_MODE-ACTIVE-ff00ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Trust_Engine-RUNNING-00ff9f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Building-00f5ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-ML%20Systems-ff00ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Interest-Human%20AI%20Trust-00ff9f?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🧠 SYSTEM BOOT
-
-```bash id="neon1"
+```bash
 > initializing identity...
 > loading modules: ML | NLP | CV | Systems
-> human-AI trust layer injected
-> status: READY
+> ready
 ```
 
-```python id="neon2"
-class NeuralEngineer:
-
+```python
+class Mukul:
     name = "Mukul Mishra"
-    version = "2.0 CYBERPUNK BUILD"
+    role = "Machine Learning Engineer"
+    focus = "Real-world AI systems and trust"
 
-    core_modules = [
-        "Trust Modeling Engine",
-        "Predictive Intelligence Systems",
-        "Emotion-Aware Interfaces"
+    building = [
+        "Trust Modeling Systems",
+        "Predictive ML Pipelines",
+        "Emotion-aware Interfaces"
     ]
 
-    mission = "Make AI systems humans don't fear."
-
-    state = "always shipping"
+    approach = "Build → Evaluate → Deploy → Iterate"
 ```
 
 ---
 
-# 🎥 VISUAL MOTION LAYER (CYBERPUNK VIBES)
-
 <div align="center">
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="700"/>
-
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="650"/>
 </div>
 
 ---
 
-# 🚀 CORE SYSTEMS (PROJECTS)
+I work on machine learning systems that go beyond experimentation and actually function in real-world environments.
 
-## 🧠 TRUST ENGINE
-
-```bash id="neon3"
-input  → human doubt + override behavior
-output → trust score + decay intelligence
-```
-
-🧬 Features:
-
-* NLP detects **skepticism signals**
-* ML predicts **trust breakdown**
-* Tracks **human confidence over time**
+My focus is not just accuracy, but how systems behave when people interact with them — especially when trust starts to break.
 
 ---
 
-## 🔩 PREDICTIVE MACHINE INTELLIGENCE
+### TrustScope
 
-```bash id="neon4"
-input  → sensor streams
-output → machine survival probability
+```bash
+input  → user feedback + interaction behavior  
+output → trust score + behavioral trends
 ```
 
-⚡ Hybrid brain:
+A system designed to understand when and why users lose confidence in AI predictions.
 
-* Random Forest → current state
-* LSTM → future degradation
+- Extracts sentiment and skepticism signals from interactions  
+- Models trust decay using supervised learning  
+- Generates interpretable trust scores  
+- Helps identify failure points in deployed systems  
 
 ---
 
-## 😶 EMOTION INTERFACE SYSTEM
+### DegradX
 
-```bash id="neon5"
-input  → face
-output → environment adapts
+```bash
+input  → time-series sensor data  
+output → degradation trend + failure probability
 ```
 
-🧠 AI → UX bridge:
+A predictive maintenance system built for real-world monitoring.
 
-* Vision Transformer
-* Emotion → visual response system
+- Random Forest for current state estimation  
+- LSTM for temporal degradation patterns  
+- Combines short-term signals with long-term trends  
+- Exposed through FastAPI for real-time predictions  
 
 ---
 
-# ⚙️ TECH MATRIX
+### Emotion AI
+
+```bash
+input  → facial expression  
+output → adaptive visual response
+```
+
+An exploration of emotion-aware systems.
+
+- Vision Transformer for emotion detection  
+- Maps emotional states to dynamic visual outputs  
+- Connects computer vision with user experience  
+
+---
 
 <div align="center">
 
@@ -112,8 +103,6 @@ output → environment adapts
 </div>
 
 ---
-
-# 📊 LIVE SYSTEM METRICS
 
 <div align="center">
 
@@ -130,71 +119,56 @@ output → environment adapts
 
 ---
 
-# 🎥 SECOND MOTION PANEL
-
 <div align="center">
-
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="700"/>
-
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="650"/>
 </div>
 
 ---
 
-# 🏆 ACHIEVEMENT LOG
-
-```diff id="neon6"
-+ Shell AI Hackathon → TOP 16%
-+ Zelestra Hackathon → TOP 18%
-+ DP-900 → 970/1000
-+ LeetCode → 250+ problems
-+ CGPA → 9.42
+```text
+Shell AI Hackathon      → Top 16%  
+Zelestra Hackathon      → Top 18%  
+Microsoft DP-900        → 970 / 1000  
+LeetCode                → 250+ Problems Solved  
+CGPA                    → 9.42  
 ```
 
 ---
 
-# 🎭 HUMAN SIGNALS
+Outside of technical work, I spend time on things that require creativity and expression.
 
-```yaml id="neon7"
-creative:
-  - poetry
-  - singing
-
-analytical:
-  - ML systems
-  - problem solving
-
-competitive:
-  - hackathons
-  - coding contests
-```
+- Poetry  
+- Singing  
+- Stage performances  
 
 ---
 
-# 🎓 KNOWLEDGE BASE
-
-| Node        | Value      |
-| ----------- | ---------- |
-| AIML Degree | VIT Bhopal |
-| CGPA        | 9.42       |
-| XII         | 94.4%      |
-| X           | 93%        |
+<div align="center">
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="350"/>
+</div>
 
 ---
 
-# 📡 CONNECT NODE
+| | |
+|---|---|
+| Degree | B.Tech CSE (AIML) |
+| Institution | VIT Bhopal |
+| CGPA | 9.42 |
+
+---
 
 <div align="center">
 
 <a href="https://linkedin.com/in/mukul-mishra">
-<img src="https://img.shields.io/badge/LinkedIn-NEURAL_LINK-00f5ff?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00f5ff?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:mishra123best@gmail.com">
-<img src="https://img.shields.io/badge/Email-SIGNAL_ME-ff00ff?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Say%20Hi-ff00ff?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/Mishra123456">
-<img src="https://img.shields.io/badge/GitHub-ENTER_SYSTEM-00ff9f?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-00ff9f?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -203,11 +177,13 @@ competitive:
 
 <div align="center">
 
-```diff id="neon8"
+<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="300"/>
+
+```diff
 - AI is not the future.
-+ TRUSTED AI is.
++ Systems people trust are.
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:0f2027&height=140&section=footer"/>
 
-</div>  bro remove heading which makes it look like ai generated and add some memes and graphics
+</div>
