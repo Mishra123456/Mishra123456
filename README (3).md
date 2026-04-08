@@ -1,218 +1,200 @@
 <div align="center">
 
-<!-- 🔥 ULTRA HERO -->
+<!-- 🌌 CYBERPUNK HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=280&section=header&text=Mukul%20Mishra&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=ML%20Engineer%20•%20AI%20Builder%20•%20Trust%20Systems&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f5ff&height=300&section=header&text=Mukul%20Mishra&fontSize=70&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=Neural%20Systems%20•%20AI%20Engineer%20•%20Trust%20Layer&descAlignY=60&descSize=20"/>
 
-<!-- ⚡ MULTI-LINE TYPING -->
+<!-- ⚡ NEON TYPING -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=I+build+AI+systems+that+people+actually+trust;Not+just+models+%E2%86%92+Real+world+deployments;FastAPI+%2B+ML+%2B+Production+thinking;Human+Behavior+%2B+AI+%3D+My+obsession;250%2B+LeetCode+%7C+DP-900+970%2F1000"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+Booting+Mukul_AI_System...;%3E+Loading+Neural+Modules...;%3E+Injecting+Trust+into+AI...;%3E+System+Status%3A+ONLINE+%E2%9C%85"/>
 
 <br/>
 
-<!-- 🔥 DYNAMIC BADGES -->
+<!-- 🔥 GLOW BADGES -->
 
-<img src="https://komarev.com/ghpvc/?username=Mishra123456&color=58A6FF&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LeetCode-250%2B-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CGPA-9.42-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Shell%20AI-Top%2016%25-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-ONLINE-00f5ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_MODE-ACTIVE-ff00ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Trust_Engine-RUNNING-00ff9f?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🧠 SYSTEM IDENTITY
+# 🧠 SYSTEM BOOT
 
-```diff
-+ I don’t build "models".
-+ I build systems that make decisions — and humans decide whether to trust them.
+```bash id="neon1"
+> initializing identity...
+> loading modules: ML | NLP | CV | Systems
+> human-AI trust layer injected
+> status: READY
 ```
 
-```python
-class MukulMishra:
+```python id="neon2"
+class NeuralEngineer:
 
-    role = "ML Engineer | AI Systems Builder"
-    focus = "Human–AI Trust + Predictive Intelligence"
+    name = "Mukul Mishra"
+    version = "2.0 CYBERPUNK BUILD"
 
-    building = [
-        "Trust-aware ML systems",
-        "Predictive maintenance pipelines",
-        "Emotion-aware AI interfaces"
+    core_modules = [
+        "Trust Modeling Engine",
+        "Predictive Intelligence Systems",
+        "Emotion-Aware Interfaces"
     ]
 
-    philosophy = "AI is useless if humans don’t trust it."
+    mission = "Make AI systems humans don't fear."
 
-    stack = ["ML", "FastAPI", "Real-world deployment"]
-
-    mindset = "Ship > Perfect"
+    state = "always shipping"
 ```
 
 ---
 
-# 🎭 HUMAN SIDE (THIS MATTERS)
+# 🎥 VISUAL MOTION LAYER (CYBERPUNK VIBES)
 
 <div align="center">
 
-| 🎤 Stage          | 🧠 Mind                | ⚔️ Grind           |
-| ----------------- | ---------------------- | ------------------ |
-| Poetry Recitation | ML Research            | 250+ LeetCode      |
-| Singing           | System Design Thinking | Hackathons         |
-| Public Speaking   | AI Curiosity           | Competitive Coding |
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="700"/>
 
 </div>
 
 ---
 
-# 🚀 PROJECTS (BUILT LIKE SYSTEMS)
+# 🚀 CORE SYSTEMS (PROJECTS)
 
-## 🧠 TrustScope — *Human–AI Trust Engine*
+## 🧠 TRUST ENGINE
 
-```bash
-Input  → user confidence + override behavior
-Output → trust score + decay intelligence
+```bash id="neon3"
+input  → human doubt + override behavior
+output → trust score + decay intelligence
 ```
 
-⚡ What makes it different:
+🧬 Features:
 
-* Extracts **skepticism signals from human language**
-* Scores **override risk (LOW / MEDIUM / HIGH)**
-* Tracks **trust decay over time (not just prediction)**
-
-🧩 Stack: Python · NLP · Scikit-learn · Pandas
+* NLP detects **skepticism signals**
+* ML predicts **trust breakdown**
+* Tracks **human confidence over time**
 
 ---
 
-## 🔩 DegradX — *Machine Health Intelligence*
+## 🔩 PREDICTIVE MACHINE INTELLIGENCE
 
-```bash
-Input  → real-time sensor streams
-Output → failure probability + health index
+```bash id="neon4"
+input  → sensor streams
+output → machine survival probability
 ```
 
-⚡ What makes it different:
+⚡ Hybrid brain:
 
-* Combines **Random Forest (present)** + **LSTM (future)**
-* Converts raw signals → **actionable health metrics**
-* Fully deployed via **FastAPI APIs**
-
-🧩 Stack: LSTM · Random Forest · FastAPI
+* Random Forest → current state
+* LSTM → future degradation
 
 ---
 
-## 😶 Emotion AI — *Human-Aware Interface*
+## 😶 EMOTION INTERFACE SYSTEM
 
-```bash
-Input  → face image
-Output → emotion-adaptive wallpaper
+```bash id="neon5"
+input  → face
+output → environment adapts
 ```
 
-⚡ What makes it different:
+🧠 AI → UX bridge:
 
-* Uses **Vision Transformer (ViT)**
-* Maps emotion → **visual experience**
-* Turns ML into **UX layer**
-
-🧩 Stack: ViT · Computer Vision · Generative Logic
+* Vision Transformer
+* Emotion → visual response system
 
 ---
 
-# ⚙️ TECH STACK (VISUAL GRID)
+# ⚙️ TECH MATRIX
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,sql,sklearn,tensorflow,fastapi,aws,mysql,git,vercel&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,java,sql,sklearn,tensorflow,fastapi,aws,mysql,git,vercel&theme=dark"/>
 
 </div>
 
 ---
 
-# 📊 LIVE GITHUB ANALYTICS
+# 📊 LIVE SYSTEM METRICS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mishra123456&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishra123456&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mishra123456&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishra123456&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mishra123456&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 ACTIVITY GRAPH (VISUAL FLEX)
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mishra123456&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://streak-stats.demolab.com?user=Mishra123456&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 🎥 SECOND MOTION PANEL
 
-```yaml
-Shell AI Hackathon:        Top 16%
-Zelestra Hackathon:        Top 18%
-Microsoft DP-900:          970/1000
-LeetCode:                  250+ Problems
-CGPA:                      9.42 / 10
-Competitions:              IIT BHU Entrivia, HSBC Case Study
+<div align="center">
+
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="700"/>
+
+</div>
+
+---
+
+# 🏆 ACHIEVEMENT LOG
+
+```diff id="neon6"
++ Shell AI Hackathon → TOP 16%
++ Zelestra Hackathon → TOP 18%
++ DP-900 → 970/1000
++ LeetCode → 250+ problems
++ CGPA → 9.42
 ```
 
 ---
 
-# 📜 CERTIFICATIONS
+# 🎭 HUMAN SIGNALS
 
-<div align="center">
+```yaml id="neon7"
+creative:
+  - poetry
+  - singing
 
-<img src="https://img.shields.io/badge/IBM-Generative_AI-blue?style=for-the-badge&logo=ibm"/>
-<img src="https://img.shields.io/badge/Microsoft-DP--900_970/1000-0078D4?style=for-the-badge&logo=microsoft"/>
-<img src="https://img.shields.io/badge/Oracle-Data_Science-red?style=for-the-badge&logo=oracle"/>
-<img src="https://img.shields.io/badge/NPTEL-Cloud_Elite_Silver-green?style=for-the-badge"/>
+analytical:
+  - ML systems
+  - problem solving
 
-</div>
-
----
-
-# 🎓 EDUCATION
-
-| Degree            | Institution | Performance   |
-| ----------------- | ----------- | ------------- |
-| B.Tech CSE (AIML) | VIT Bhopal  | **9.42 CGPA** |
-| Class XII         | The Pillars | **94.4%**     |
-| Class X           | The Pillars | **93%**       |
-
----
-
-# 🎯 CURRENT MISSION
-
-```diff
-+ Build AI systems that humans actually trust
-+ Ship production-ready ML APIs
-+ Work at the intersection of ML + behavior + systems
+competitive:
+  - hackathons
+  - coding contests
 ```
 
 ---
 
-# 📬 CONNECT
+# 🎓 KNOWLEDGE BASE
+
+| Node        | Value      |
+| ----------- | ---------- |
+| AIML Degree | VIT Bhopal |
+| CGPA        | 9.42       |
+| XII         | 94.4%      |
+| X           | 93%        |
+
+---
+
+# 📡 CONNECT NODE
 
 <div align="center">
 
 <a href="https://linkedin.com/in/mukul-mishra">
-<img src="https://img.shields.io/badge/LinkedIn-Mukul_Mishra-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-NEURAL_LINK-00f5ff?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:mishra123best@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-SIGNAL_ME-ff00ff?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/Mishra123456">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-ENTER_SYSTEM-00ff9f?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -221,8 +203,11 @@ Competitions:              IIT BHU Entrivia, HSBC Case Study
 
 <div align="center">
 
-🔥 **"The future of AI isn’t intelligence — it’s trust."**
+```diff id="neon8"
+- AI is not the future.
++ TRUSTED AI is.
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:0f2027&height=140&section=footer"/>
 
 </div>
