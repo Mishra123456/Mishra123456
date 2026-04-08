@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f5ff&height=300&section=header&text=Mukul%20Mishra&fontSize=70&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=Machine%20Learning%20Engineer%20•%20AI%20Systems%20•%20Trust%20Focused&descAlignY=60&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+reliable+AI+systems;ML+%2B+APIs+%2B+real+world+deployment;Focused+on+human-AI+trust"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+reliable+AI+systems;ML+%2B+APIs+%2B+real+world+deployment;Focused+on+human-AI+trust"/>
 
 <br/>
 
@@ -43,56 +43,56 @@ class Mukul:
 
 ---
 
-I work on machine learning systems that go beyond experimentation and actually function in real-world environments.
+I build **machine learning systems** that go beyond experimentation and actually work in **real-world environments**.
 
-My focus is not just accuracy, but how systems behave when people interact with them — especially when trust starts to break.
+My focus is not just **accuracy**, but how systems behave when **people interact with them** — especially when **trust starts to break**.
 
 ---
 
-### TrustScope
+### <span style="color:#00f5ff"><b>TrustScope</b></span>
 
 ```bash
 input  → user feedback + interaction behavior  
 output → trust score + behavioral trends
 ```
 
-A system designed to understand when and why users lose confidence in AI predictions.
+A system focused on **understanding trust in AI systems**.
 
-- Extracts sentiment and skepticism signals from interactions  
-- Models trust decay using supervised learning  
-- Generates interpretable trust scores  
-- Helps identify failure points in deployed systems  
+- Detects **sentiment + skepticism signals** using NLP  
+- Models **trust decay over time**  
+- Generates **interpretable trust scores**  
+- Identifies **failure points in deployed systems**  
 
 ---
 
-### DegradX
+### <span style="color:#ff00ff"><b>DegradX</b></span>
 
 ```bash
 input  → time-series sensor data  
 output → degradation trend + failure probability
 ```
 
-A predictive maintenance system built for real-world monitoring.
+A **predictive maintenance system** designed for real-world deployment.
 
-- Random Forest for current state estimation  
-- LSTM for temporal degradation patterns  
-- Combines short-term signals with long-term trends  
-- Exposed through FastAPI for real-time predictions  
+- **Random Forest** → current state estimation  
+- **LSTM** → temporal degradation patterns  
+- Combines **short-term + long-term signals**  
+- Deployed using **FastAPI APIs**  
 
 ---
 
-### Emotion AI
+### <span style="color:#00ff9f"><b>Emotion AI</b></span>
 
 ```bash
 input  → facial expression  
 output → adaptive visual response
 ```
 
-An exploration of emotion-aware systems.
+Exploring **emotion-aware intelligent interfaces**.
 
-- Vision Transformer for emotion detection  
-- Maps emotional states to dynamic visual outputs  
-- Connects computer vision with user experience  
+- **Vision Transformer** for emotion classification  
+- Maps emotion → **dynamic visual output**  
+- Bridges **computer vision + user experience**  
 
 ---
 
@@ -135,11 +135,13 @@ CGPA                    → 9.42
 
 ---
 
-Outside of technical work, I spend time on things that require creativity and expression.
+Outside of technical work, I spend time on **creative expression and performance**.
 
 - Poetry  
 - Singing  
 - Stage performances  
+
+These experiences shape how I think about **clarity, communication, and human interaction**.
 
 ---
 
@@ -151,9 +153,9 @@ Outside of technical work, I spend time on things that require creativity and ex
 
 | | |
 |---|---|
-| Degree | B.Tech CSE (AIML) |
-| Institution | VIT Bhopal |
-| CGPA | 9.42 |
+| **Degree** | B.Tech CSE (AIML) |
+| **Institution** | VIT Bhopal |
+| **CGPA** | **9.42** |
 
 ---
 
