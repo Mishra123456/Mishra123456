@@ -435,15 +435,6 @@ Face Detection
 
 </div>
 
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mishra123456&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 # 📑 GitHub Summary
 
@@ -658,7 +649,11 @@ If you enjoyed exploring my work,
 
 </div>
 ````
+<div align="center">
 
+<img width="450" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-16df-44d8-a2c6-62d417c0f5c7.gif"/>
+
+</div>
 </div>
 
 ---
