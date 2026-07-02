@@ -212,8 +212,19 @@ Building AI-powered applications and backend services for real-world business us
 input  → user feedback + interaction behaviour
 output → trust score + behavioral analytics
 ```
+<br>
 
 A Human–AI Trust Analysis platform that studies **how users gain, lose and rebuild trust** in AI systems.
+
+<br>
+
+<div align="center">
+
+<img src="ts7.png" width="900"/>
+
+</div>
+
+<br>
 
 ### ✨ Features
 
@@ -262,9 +273,15 @@ Behavior Analysis
 input  → time-series sensor data
 output → degradation trend + failure prediction
 ```
-
+<br>
 Hybrid Machine Learning system for predictive maintenance using **Random Forest + LSTM**.
+<br>
+<div align="center">
 
+<img src="d1.png" width="900"/>
+
+</div>
+<br>
 ### ✨ Features
 
 - 🌲 Random Forest
@@ -312,8 +329,19 @@ Prediction API
 input  → facial expression
 output → adaptive visual experience
 ```
+<br>
 
 Emotion-aware interface powered by a **Vision Transformer**, enabling dynamic UI personalization.
+
+<br>
+
+<div align="center">
+
+<img src="e1.png" width="900"/>
+
+</div>
+
+<br>
 
 ### ✨ Features
 
