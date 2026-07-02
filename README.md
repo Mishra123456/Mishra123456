@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00f5ff&height=280&section=header&text=Mukul%20Mishra&fontSize=64&fontColor=00F5FF&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20Engineer%20|%20AI%20Systems%20|%20Trustworthy%20AI&descAlignY=58&descSize=18"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+Reliable+AI+Systems;Machine+Learning+Engineer;Computer+Vision+%7C+NLP+%7C+FastAPI;Trustworthy+AI+%7C+Model+Deployment;Always+Learning+Always+Building"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=Mukul%20Mishra&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Machine%20Learning%20Engineer%20|%20AI%20Systems%20|%20Trustworthy%20AI&descAlignY=60"/>
 
 <br>
 
-<a href="https://mukul-s-ai-canvas-346a2182.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00F5FF?style=for-the-badge&logo=vercel"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Computer+Vision;Natural+Language+Processing;FastAPI+Backend;Building+Reliable+AI+Systems"/>
+
+<br>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-Live-00F5FF?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mukulmishracs/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Mukul%20Mishra-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:mishra123best@gmail.com">
@@ -24,205 +26,445 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Mishra123456&style=for-the-badge&color=00f5ff"/>
+<img src="https://komarev.com/ghpvc/?username=Mishra123456&style=for-the-badge&color=00F5FF"/>
+
+# 👨‍💻 About Me
+
+<table>
+<tr>
+
+<td width="60%">
+
+I'm **Mukul Mishra**, a **Machine Learning Engineer** passionate about building production-ready AI systems.
+
+### Interests
+
+- 🤖 Machine Learning
+- 🧠 Trustworthy AI
+- 👁 Computer Vision
+- 💬 NLP
+- ⚡ FastAPI
+- ☁ AWS
+
+### Current Focus
+
+- AI Systems
+- MLOps
+- LLM Applications
+- Human-AI Trust
+- Backend Engineering
+
+> **"Reliable AI isn't built by bigger models—it's built through better engineering."**
+
+</td>
+
+<td>
+
+<img width="320" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-16df-44d8-a2c6-62d417c0f5c7.gif">
+
+</td>
+
+</tr>
+</table>
+
+---
+# 💼 Experience
+
+<table>
+<tr>
+
+<td width="65%">
+
+## 🤖 AI Intern | HEPRO AI
+
+**📍 AI Engineering Intern**  
+**🗓 2026 – Present**
+
+Building AI-powered applications and backend systems for real-world use cases.
+
+### Key Contributions
+
+- 🚀 Developed scalable AI-powered applications using Python.
+- ⚡ Built RESTful APIs with **FastAPI** for seamless model integration.
+- 🤖 Assisted in deploying Machine Learning models into production-ready environments.
+- 📊 Performed data preprocessing, feature engineering, and model evaluation.
+- 🔍 Collaborated on optimizing AI workflows for performance and scalability.
+- ☁️ Contributed to cloud-based AI solutions and deployment pipelines.
+
+### Technologies
+
+`Python` • `FastAPI` • `Machine Learning` • `REST APIs` • `Git`
+
+</td>
+
+<td align="center">
+
+<img width="320" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3b-0ecf54e6a8c6.gif"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⚡ Technical Expertise
+
+<div align="center">
+
+| 🏷️ Category | 🚀 Technologies |
+|:------------|:----------------|
+| **💻 Languages** | Python • Java • SQL • C • C++ |
+| **🤖 AI & Machine Learning** | TensorFlow • PyTorch • Scikit-Learn • Hugging Face • OpenCV |
+| **📊 Data Science** | Pandas • NumPy • Matplotlib |
+| **⚙️ Backend Development** | FastAPI • REST APIs • Uvicorn |
+| **☁️ Cloud & Deployment** | AWS • Vercel |
+| **🗄️ Databases** | MySQL • PostgreSQL |
+| **🛠️ Tools & Platforms** | Git • GitHub • Docker • Linux • VS Code |
 
 </div>
 
 ---
 
-# 👋 About Me
+# 🧩 What I Love Building
 
-I'm **Mukul Mishra**, a **Machine Learning Engineer** passionate about designing AI systems that are **accurate, interpretable, and production-ready**.
+<div align="center">
 
-Rather than building models that only perform well in notebooks, I focus on deploying intelligent systems that solve real-world problems through scalable APIs, machine learning pipelines, and trustworthy AI.
+| 🤖 AI Systems | ⚙️ Backend Engineering | 📊 Data Intelligence |
+|---------------|------------------------|----------------------|
+| Machine Learning Models | FastAPI Services | Data Analytics |
+| Computer Vision | REST APIs | Feature Engineering |
+| NLP Applications | Model Deployment | Predictive Analytics |
+| Trustworthy AI | Scalable Systems | Data Visualization |
 
-### Currently Exploring
-
-- 🤖 Trustworthy AI
-- 🧠 Machine Learning Systems
-- 👁 Computer Vision
-- 💬 NLP
-- ⚡ FastAPI & Backend Engineering
-- ☁ Cloud Deployment
-- 📊 MLOps Fundamentals
+</div>
 
 ---
 
-# 💼 Experience
+# 📌 Current Focus
 
-## AI Intern | HEPRO AI
+<div align="center">
 
-**2026 – Present**
+🧠 **Trustworthy AI** • 🤖 **Machine Learning Systems** • 👁️ **Computer Vision**
 
-- Developing AI-powered applications for real-world use cases.
-- Building scalable backend APIs using FastAPI.
-- Working on machine learning model deployment.
-- Optimizing AI workflows for production environments.
-- Collaborating on intelligent automation solutions.
+💬 **Natural Language Processing** • ⚡ **FastAPI** • ☁️ **Cloud Deployment**
 
----
+📈 **MLOps Fundamentals** • 🚀 **Production AI Systems**
 
-# 🛠 Tech Stack
-
-## Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql"/>
-</p>
+</div>
 
 ---
 
-## Machine Learning
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn"/>
-</p>
-
-**Libraries**
-
-- NumPy
-- Pandas
-- Matplotlib
-- OpenCV
-- Hugging Face Transformers
-
----
-
-## Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-</p>
-
-- REST APIs
-- Uvicorn
-- API Deployment
-
----
-
-## Cloud & Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,mysql,postgres"/>
-</p>
-
----
-
-## Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel"/>
-</p>
-
----
-
-# 📈 What I Enjoy Building
-
-✅ Machine Learning Applications
-
-✅ AI APIs
-
-✅ Predictive Analytics
-
-✅ NLP Systems
-
-✅ Computer Vision Applications
-
-✅ Intelligent Dashboards
-
-✅ Production-ready ML Pipelines
-
----
-
-# ⚙ Engineering Philosophy
+# ⚙️ Engineering Philosophy
 
 ```python
-class Mukul:
+class MukulMishra:
 
     role = "Machine Learning Engineer"
+
+    education = "B.Tech CSE (AI & ML)"
+
+    university = "VIT Bhopal"
+
+    cgpa = 9.35
+
+    experience = "AI Intern @ HEPRO AI"
 
     interests = [
         "Machine Learning",
         "Computer Vision",
         "Natural Language Processing",
         "Trustworthy AI",
-        "Backend Engineering"
+        "Backend Engineering",
+        "MLOps"
     ]
 
-    philosophy = [
+    workflow = [
         "Build",
-        "Measure",
+        "Evaluate",
         "Deploy",
+        "Monitor",
         "Improve"
     ]
 
-    goal = "Create AI systems people can trust."
+    mission = (
+        "Design AI systems that are "
+        "accurate, scalable, and trusted."
+    )
 ```
 
-# 🚀 Featured Projects
+---
 
-## 🧠 TrustScope
-> **Human–AI Trust Analysis System**
+<div align="center">
 
-A machine learning system that analyzes **how users gain, lose, and recover trust** in AI predictions by combining behavioral analytics, NLP, and interpretable machine learning.
+<img src="https://user-images.githubusercontent.com/74038190/213911167-745d1d4d-90be-4e5b-a79c-2e4c38fddf9b.gif" width="450"/>
 
-### Highlights
+### 🚀 *"Building AI that doesn't just predict—but performs reliably in the real world."*
 
-- 🧠 Sentiment & skepticism detection using NLP
-- 📊 Human-AI trust score generation
-- 📉 Trust decay analysis over time
-- ⚡ FastAPI-powered REST API
-- 📈 Behavioral analytics dashboard
-- 🔍 Explainable trust metrics
+</div>
 
-### Tech Stack
+--- # 🚀 Featured Projects
 
-`Python` • `FastAPI` • `Scikit-Learn` • `Pandas` • `NumPy`
+<div align="center">
+
+> *Building AI systems that are scalable, interpretable, and production-ready.*
+
+</div>
 
 ---
 
-## 🔩 DegradX
-> **Predictive Maintenance using Hybrid ML**
+<table>
+<tr>
 
-A predictive maintenance system that estimates machine degradation and failure probability from sensor data using both classical machine learning and deep learning.
+<td width="50%">
 
-### Highlights
+# 🧠 TrustScope
 
-- 🌲 Random Forest for equipment health prediction
-- 🧠 LSTM for temporal degradation modeling
-- 📈 Remaining Useful Life estimation
-- ⚡ FastAPI deployment
-- 📊 Time-series analytics
+### Human–AI Trust Analysis System
 
-### Tech Stack
+Understanding **how users build, lose, and regain trust** in AI predictions through behavioral analytics and explainable machine learning.
 
-`Python` • `TensorFlow` • `Scikit-Learn` • `FastAPI`
+### ✨ Features
+
+- 🧠 Sentiment Analysis
+- 💬 Skepticism Detection
+- 📉 Trust Decay Modeling
+- 📊 Human-AI Alignment Score
+- 📈 Behavioral Analytics Dashboard
+- ⚡ FastAPI REST API
+
+### 🛠 Tech Stack
+
+`Python`
+
+`FastAPI`
+
+`Scikit-Learn`
+
+`Pandas`
+
+`NumPy`
+
+`Matplotlib`
+
+### Architecture
+
+```text
+User Feedback
+      │
+      ▼
+ NLP Processing
+      │
+      ▼
+ Trust Analysis
+      │
+      ▼
+ ML Prediction
+      │
+      ▼
+ Trust Score
+```
+
+</td>
+
+<td align="center">
+
+<img width="330" src="https://user-images.githubusercontent.com/74038190/216655848-e6b2b7c0-1e9b-4510-9db1-5c2cb8e4e3ea.gif"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🎭 Emotion AI
-> **Emotion-Aware Adaptive Interface**
+<table>
+<tr>
 
-A computer vision application that recognizes facial expressions and dynamically adapts the interface based on the detected emotion.
+<td align="center">
 
-### Highlights
+<img width="330" src="https://user-images.githubusercontent.com/74038190/216654112-f343f6d7-c7ff-4d0d-8572-c4d6d5ef4b45.gif"/>
 
-- 😊 Vision Transformer (ViT)
-- 👁 Facial Emotion Recognition
-- 🎨 Dynamic UI adaptation
-- ⚡ Fast inference pipeline
+</td>
 
-### Tech Stack
+<td width="50%">
 
-`Python` • `Transformers` • `OpenCV` • `FastAPI`
+# 🔩 DegradX
+
+### Predictive Maintenance System
+
+Hybrid AI system that predicts equipment degradation using sensor data and time-series modeling.
+
+### ✨ Features
+
+- 🔍 Failure Prediction
+- 📊 Remaining Useful Life
+- 🌲 Random Forest
+- 🧠 LSTM
+- 📈 Time-Series Analytics
+- ⚡ FastAPI Deployment
+
+### 🛠 Tech Stack
+
+`Python`
+
+`TensorFlow`
+
+`FastAPI`
+
+`Scikit-Learn`
+
+`Pandas`
+
+### Architecture
+
+```text
+Sensor Data
+      │
+      ▼
+Feature Engineering
+      │
+      ▼
+Random Forest
+      │
+      ▼
+LSTM
+      │
+      ▼
+Prediction API
+```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
+<table>
+<tr>
+
+<td width="50%">
+
+# 🎭 Emotion AI
+
+### Emotion-Aware Intelligent Interface
+
+Computer vision application that adapts user experience based on facial emotion recognition.
+
+### ✨ Features
+
+- 😊 Vision Transformer
+- 👁 Facial Expression Detection
+- 🎨 Dynamic Wallpaper Generation
+- ⚡ Real-Time Inference
+- 📱 Interactive User Experience
+
+### 🛠 Tech Stack
+
+`Python`
+
+`Transformers`
+
+`OpenCV`
+
+`FastAPI`
+
+### Architecture
+
+```text
+Camera
+   │
+   ▼
+Face Detection
+   │
+   ▼
+Vision Transformer
+   │
+   ▼
+Emotion
+   │
+   ▼
+Adaptive Interface
+```
+
+</td>
+
+<td align="center">
+
+<img width="330" src="https://user-images.githubusercontent.com/74038190/212749695-042d7f98-5b89-4c02-9e1f-0d16d3f8f8fb.gif"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏆 Highlighted Achievements
+
+<div align="center">
+
+| Achievement | Details |
+|-------------|---------|
+| 🏅 Shell AI Hackathon | **Top 16%** |
+| 🏅 Zelestra Hackathon | **Top 18%** |
+| 🥇 Microsoft DP-900 | **970 / 1000** |
+| 💻 LeetCode | **250+ Problems Solved** |
+| 🎓 CGPA | **9.35 / 10.0** |
+| 💼 Experience | **AI Intern @ HEPRO AI** |
+
+</div>
+
+---
+
+# 📈 Project Development Workflow
+
+```text
+💡 Idea
+   │
+   ▼
+📊 Data Collection
+   │
+   ▼
+🧹 Data Processing
+   │
+   ▼
+🤖 Model Training
+   │
+   ▼
+📈 Evaluation
+   │
+   ▼
+⚡ FastAPI Deployment
+   │
+   ▼
+☁ Cloud Hosting
+   │
+   ▼
+🚀 Production
+```
+
+---
+
+<div align="center">
+
+## 🌟 Philosophy
+
+*"AI models create predictions.*
+
+*AI engineers create products.*
+
+*Reliable AI creates trust."*
+
+</div>
+
+--- 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mishra123456&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mishra123456&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishra123456&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -238,6 +480,8 @@ A computer vision application that recognizes facial expressions and dynamically
 
 ---
 
+# 📈 Contribution Activity
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mishra123456&theme=tokyo-night&hide_border=true"/>
@@ -246,105 +490,128 @@ A computer vision application that recognizes facial expressions and dynamically
 
 ---
 
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mishra123456&theme=algolia&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📑 GitHub Summary
+
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mishra123456&theme=github_dark"/>
 
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mishra123456&theme=github_dark"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mishra123456&theme=github_dark"/>
+
 </div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mishra123456/Mishra123456/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📈 Coding Philosophy
+
+<div align="center">
+
+```text
+Write Code
+      │
+      ▼
+Build Models
+      │
+      ▼
+Deploy APIs
+      │
+      ▼
+Collect Feedback
+      │
+      ▼
+Improve Models
+      │
+      ▼
+Build Better AI
+```
+
+</div>
+
+---
+
+# 🚀 Open Source Mindset
+
+<div align="center">
+
+> **"Every commit is a step toward building better software."**
+
+</div>
+
+---
+
+# 📌 Current Goals
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🎯 2026 Goals
+
+- ✅ 500+ LeetCode Problems
+- 🚀 Build Production AI Systems
+- ☁ Master AWS
+- 🤖 Learn MLOps
+- 📚 Publish Technical Blogs
+- 🌍 Contribute to Open Source
+
+</td>
+
+<td align="center">
+
+<img width="300" src="https://user-images.githubusercontent.com/74038190/216656969-8ddf4d5d-d69d-49d8-a0d7-9cf0f0b3d1f2.gif"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mishra123456&theme=algolia&row=1&column=7&margin-w=15&no-frame=true"/>
+## ⭐ Thanks for visiting my profile!
+
+*"Building intelligent systems that are reliable, scalable, and trusted."*
 
 </div>
 
 ---
-
-# 🏆 Achievements
-
-| Achievement | Details |
-|------------|---------|
-| 🏅 Shell AI Hackathon | **Top 16%** |
-| 🏅 Zelestra Hackathon | **Top 18%** |
-| 🥇 Microsoft DP-900 | **970 / 1000** |
-| 💻 LeetCode | **250+ Problems Solved** |
-| 🎓 CGPA | **9.35 / 10** |
-| 💼 AI Experience | **AI Intern @ HEPRO AI** |
-
----
-
-# 📚 Currently Learning
-
-- 🤖 Large Language Models
-- 🧠 Retrieval-Augmented Generation (RAG)
-- ⚙ MLOps
-- ☁ AWS for Machine Learning
-- 📊 Data Engineering
-- 🚀 Scalable AI Deployment
-
----
-
-# 📌 Areas of Interest
-
-```text
-Machine Learning
-Computer Vision
-Natural Language Processing
-Trustworthy AI
-MLOps
-Backend Engineering
-API Development
-Deep Learning
-Cloud Computing
-Production AI Systems
-```
-
----
-
-# 📈 Development Workflow
-
-```text
-Idea
-  │
-  ▼
-Data Collection
-  │
-  ▼
-Feature Engineering
-  │
-  ▼
-Model Training
-  │
-  ▼
-Evaluation
-  │
-  ▼
-Deployment
-  │
-  ▼
-Monitoring
-  │
-  ▼
-Continuous Improvement
-```
-
----
-
-<div align="center">
-
-### 💡 "Great AI isn't just accurate—it's reliable, interpretable, and trusted."
-
-</div>
-
----
-
 # 🎓 Education
 
-| Degree | Institution | CGPA |
-|---------|-------------|------|
-| **B.Tech in Computer Science & Engineering (AI & ML)** | **VIT Bhopal University** | **9.35 / 10.0** |
+<div align="center">
+
+| 🎓 Degree | 🏛 Institution | 📊 CGPA |
+|------------|----------------|----------|
+| **B.Tech Computer Science & Engineering (AI & ML)** | **VIT Bhopal University** | **9.35 / 10.0** |
+
+</div>
 
 ---
 
@@ -352,32 +619,38 @@ Continuous Improvement
 
 <div align="center">
 
-| Certification | Score / Status |
-|---------------|----------------|
+| 🏆 Certification | Status |
+|-----------------|--------|
 | 🥇 Microsoft Azure DP-900 | **970 / 1000** |
-| ☁ Oracle Cloud Infrastructure Data Science Professional | Certified |
-| 🤖 IBM Generative AI | Certified |
-| 📘 NPTEL Cloud Computing | Elite + Silver |
+| ☁ Oracle Cloud Infrastructure – Data Science Professional | ✅ Certified |
+| 🤖 IBM Generative AI | ✅ Certified |
+| 🌐 NPTEL Cloud Computing | **Elite + Silver** |
 
 </div>
 
 ---
 
-# 🌟 Leadership & Community
+# 🌱 Currently Learning
 
-- 👨‍💻 Active open-source contributor on GitHub
-- 🎤 Enjoy presenting technical ideas and AI projects
-- 🤝 Passionate about collaborative learning and hackathons
-- 🌱 Always exploring emerging AI technologies
+<div align="center">
+
+| 🤖 AI | ☁ Cloud | ⚙ Engineering |
+|-------|----------|---------------|
+| LLM Applications | AWS | MLOps |
+| RAG Systems | Docker | System Design |
+| AI Agents | CI/CD | Production AI |
+| AI Evaluation | Kubernetes | Scalable APIs |
+
+</div>
 
 ---
 
-# 🌐 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://mukul-s-ai-canvas-346a2182.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00F5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-00F5FF?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mukulmishracs/">
@@ -396,69 +669,36 @@ Continuous Improvement
 
 ---
 
-# 📈 GitHub Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Mishra123456/Mishra123456/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
-> **Note:** You'll need a GitHub Action to generate the snake animation. Once configured, it updates automatically.
-
----
-
-# 📊 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mishra123456&theme=github_dark"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mishra123456&theme=github_dark"/>
-
-</div>
-
----
-
 # 💭 Favorite Quote
 
 <div align="center">
 
-> **"AI becomes valuable not when it predicts correctly once, but when people can depend on it consistently."**
+> **"Trust is the most important metric of any intelligent system."**
 
 </div>
 
 ---
 
-# ⚡ Fun Facts
-
-- 🎤 I enjoy singing and stage performances.
-- ✍️ I write poetry in my free time.
-- 🧩 I like solving algorithmic and system design problems.
-- 🚀 I'm passionate about building AI products that solve real-world challenges.
-
----
+# 📌 Fun Facts
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:203A43,100:0F2027&height=120&section=footer"/>
+🎤 Singing • ✍ Poetry • 🎭 Stage Performances • 💡 Hackathons • 📚 Continuous Learning
 
 </div>
 
+---
 
+# 💙 Thanks for Visiting
 
+<div align="center">
 
+### ⭐ If you like my work, consider starring my repositories!
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
+</div>
 
-
-
-
+</div>
 
 ---
