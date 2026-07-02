@@ -37,9 +37,7 @@ class Mukul:
 ---
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-16df-44d8-a2c6-62d417c0f5c7.gif" width="700"/>
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650"/>
 </div>
 
 ---
@@ -100,16 +98,14 @@ An exploration of *emotion-aware interfaces*.
 ---
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/213911167-745d1d4d-90be-4e5b-a79c-2e4c38fddf9b.gif" width="500"/>
-
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,tensorflow,pytorch,fastapi,docker,aws,mysql,postgres,git,github,linux,vscode,vercel"/>
+<img src="https://skillicons.dev/icons?i=python,java,sql,sklearn,tensorflow,fastapi,aws,mysql,git,vercel&theme=dark"/>
 
 </div>
 
@@ -133,68 +129,22 @@ An exploration of *emotion-aware interfaces*.
 ---
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mishra123456&theme=tokyo-night&hide_border=true"/>
-
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="650"/>
 </div>
-
----
-
----
-
-## 💼 Experience
-
-<table>
-<tr>
-
-<td width="65%">
-
-### 🤖 AI Intern | HEPRO AI
-
-```yaml
-Duration : 2 Months
-Role     : AI Engineering Intern
-Mode     : Remote
-```
-
-Building production-ready AI applications and backend services.
-
-- 🤖 Developed AI-powered applications
-- ⚡ Built REST APIs using FastAPI
-- 📊 Worked on Machine Learning pipelines
-- 🚀 Assisted in model deployment
-- 🔍 Performed model evaluation and optimization
-
-**Tech Stack**
-
-`Python` • `FastAPI` • `Machine Learning` • `Git`
-
-</td>
-
-<td>
-
-<img width="300" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3b-0ecf54e6a8c6.gif"/>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
 ## 🏆 Achievements
 
-AI Intern (HEPRO AI)    → 2 Months
+text
+Shell AI Hackathon      → Top 16%  
+Zelestra Hackathon      → Top 18%  
+Microsoft DP-900        → 970 / 1000  
+LeetCode                → 250+ Problems Solved  
+CGPA                    → 9.42  
 
-Shell AI Hackathon      → Top 16%
 
-Zelestra Hackathon      → Top 18%
-
-Microsoft DP-900        → 970 / 1000
-
-LeetCode                → 250+ Problems
-
-CGPA                    → 9.35
+---
 
 ## 🎯 Beyond Code
 
@@ -206,11 +156,13 @@ Outside of technical work:
 
 These experiences influence how I think about *communication and human interaction*.
 
+---
+
 <div align="center">
-
-<img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="350"/>
-
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
 </div>
+
+---
 
 ## 🎓 Education
 
@@ -218,7 +170,7 @@ These experiences influence how I think about *communication and human interacti
 |---|---|
 | *Degree* | B.Tech CSE (AIML) |
 | *Institution* | VIT Bhopal |
-| *CGPA* | *9.35* |
+| *CGPA* | *9.42* |
 
 ---
 
@@ -242,11 +194,13 @@ These experiences influence how I think about *communication and human interacti
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
+</div>
+
+---
+
 <div align="center">
 
-<img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="350"/>
-
-</div>
+<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="300"/>
 
 diff
 - AI is not the future.
