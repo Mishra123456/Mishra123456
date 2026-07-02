@@ -90,20 +90,35 @@ I enjoy transforming research ideas into scalable applications that users can re
 
 ---
 
+---
+
 # 💼 Experience
 
-<table>
-<tr>
+---
 
-<td width="65%">
+<div align="center">
 
-## 🤖 AI Intern | HEPRO AI
+# 🤖 AI Intern @ HEPRO AI
+
+<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3b-0ecf54e6a8c6.gif" width="300"/>
 
 ```yaml
 Duration : 2 Months
-Mode     : Remote
 Role     : AI Engineering Intern
+Focus    : Machine Learning • FastAPI • Backend AI
 ```
+
+Building production-ready AI applications.
+
+🚀 AI Applications • ⚡ FastAPI APIs • 🧠 Machine Learning
+
+☁️ Backend Engineering • 📊 Data Processing • 🤝 Team Collaboration
+
+`Python` • `FastAPI` • `Machine Learning` • `REST APIs` • `Git`
+
+</div>
+
+---
 
 Building AI-powered applications and backend services for real-world business use cases.
 
@@ -449,22 +464,6 @@ Face Detection
 </div>
 
 ---
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Mishra123456/Mishra123456/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="260" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"/>
-
-<br>
 
 ### *"One more feature..."*
 
