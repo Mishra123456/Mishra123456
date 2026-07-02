@@ -441,11 +441,9 @@ Face Detection
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mishra123456&theme=algolia&no-frame=true&row=2&column=4&margin-w=15"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mishra123456&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
 
 # 📑 GitHub Summary
 
@@ -654,16 +652,12 @@ If you enjoyed exploring my work,
 💬 Or just say hello!
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!;Happy+Coding!;Let's+build+the+future+together.;See+you+again!+👋"/>
-
-<br><br>
+<br
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:2C5364,100:0F2027&height=170&section=footer"/>
 
 </div>
 ````
-
 
 </div>
 
