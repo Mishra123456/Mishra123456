@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f5ff&height=320&section=header&text=Mukul%20Mishra&fontSize=72&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=Machine%20Learning%20Engineer%20•%20AI%20Systems%20•%20Trustworthy%20AI&descAlignY=60&descSize=20"/>
@@ -160,7 +160,6 @@ Building production-ready AI applications and backend services.
 
 </div>
 
-````md
 # ⚡ Technical Expertise
 
 <div align="center">
@@ -346,9 +345,8 @@ while learning:
     deploy()
 ```
 
----
-````
-````md
+
+
 # ⚡ Technical Expertise
 
 <div align="center">
@@ -534,9 +532,7 @@ while learning:
     deploy()
 ```
 
----
-````
-````md
+
 # ⚡ Technical Expertise
 
 <div align="center">
